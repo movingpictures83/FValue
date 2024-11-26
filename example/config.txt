@@ -1,0 +1,2 @@
+Prefix plugins/FValue/example/
+Plugin FValue inputfile contrasts.rds outputfile fvalue.csv
