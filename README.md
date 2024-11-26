@@ -1,0 +1,2 @@
+# FValue
+F-statistic
